@@ -1,1 +1,1 @@
-A program that checks a given string is a palindrome or not
+A program that sorts and prints a list of numbers in ascending or descending order.
